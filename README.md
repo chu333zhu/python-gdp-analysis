@@ -1,0 +1,3 @@
+# python-gdp-analysis
+### Based on the second-hand data collected on the Kaggle website, this article absorbs and draws on effective empirical research to analyze the macroeconomic factors that affect stock prices in various countries,carrying out regression analysis on macroeconomic factors, establish a multiple linear regression model, and conduct correlation analysis on multiple factors at the same time, and propose factors with small relative influence, and then use ols,random forest model to find significant factors.
+Studying the impact of macroeconomic variables on stock index prices can inform investment decisions, provide market analysis, assist in economic forecasting, improve risk management, and have important policy implications.
